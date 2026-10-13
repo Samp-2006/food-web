@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd37a"/><stop offset="1" stop-color="#ff9a3c"/></linearGradient></defs>
+<rect width="800" height="800" fill="url(#g)"/>
+<circle cx="130" cy="130" r="230" fill="#fff" opacity=".13"/>
+<circle cx="700" cy="690" r="270" fill="#fff" opacity=".11"/>
+<ellipse cx="400" cy="499.0" rx="290" ry="278.4" fill="#000" opacity=".16"/><circle cx="400" cy="470" r="290" fill="#fff"/><circle cx="400" cy="470" r="226.20000000000002" fill="#f2f1ec" stroke="#e4e2da" stroke-width="3"/><g transform="translate(0,60) scale(1)">
+<rect x="230" y="455" width="340" height="56" rx="28" fill="#d9902f"/>
+<rect x="215" y="408" width="370" height="58" rx="29" fill="#5b3220"/>
+<path d="M225 404 H575 L545 440 L500 414 L455 452 L410 414 L360 446 L315 414 L270 440 Z" fill="#f7c52d"/>
+<rect x="225" y="380" width="350" height="30" rx="15" fill="#e0412f"/>
+<path d="M213 362 q31 -26 62 0 t62 0 t62 0 t62 0 t62 0 t62 0 V392 H213 Z" fill="#5fbf4a"/>
+<path d="M218 352 C218 205 582 205 582 352 Z" fill="#e8a43c"/>
+<path d="M260 300 C290 240 360 225 420 228" stroke="#f5c874" stroke-width="14" fill="none" stroke-linecap="round" opacity=".7"/>
+<ellipse cx="330" cy="290" rx="14" ry="7" fill="#fff1cf" transform="rotate(-20 330 290)"/><ellipse cx="400" cy="262" rx="14" ry="7" fill="#fff1cf" transform="rotate(10 400 262)"/><ellipse cx="470" cy="285" rx="14" ry="7" fill="#fff1cf" transform="rotate(25 470 285)"/><ellipse cx="365" cy="325" rx="14" ry="7" fill="#fff1cf" transform="rotate(15 365 325)"/><ellipse cx="440" cy="322" rx="14" ry="7" fill="#fff1cf" transform="rotate(-10 440 322)"/><ellipse cx="520" cy="322" rx="14" ry="7" fill="#fff1cf" transform="rotate(20 520 322)"/><ellipse cx="285" cy="325" rx="14" ry="7" fill="#fff1cf" transform="rotate(-15 285 325)"/></g></svg>

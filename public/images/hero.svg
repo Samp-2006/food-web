@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffc861"/><stop offset="1" stop-color="#ff7a1a"/></linearGradient></defs>
+<rect width="800" height="800" fill="url(#g)"/>
+<circle cx="130" cy="130" r="230" fill="#fff" opacity=".13"/>
+<circle cx="700" cy="690" r="270" fill="#fff" opacity=".11"/>
+<ellipse cx="380" cy="500.0" rx="300" ry="288.0" fill="#000" opacity=".16"/><circle cx="380" cy="470" r="300" fill="#fff"/><circle cx="380" cy="470" r="234.0" fill="#f2f1ec" stroke="#e4e2da" stroke-width="3"/><g transform="translate(-20,100) scale(1)">
+<rect x="230" y="455" width="340" height="56" rx="28" fill="#d9902f"/>
+<rect x="215" y="408" width="370" height="58" rx="29" fill="#5b3220"/>
+<path d="M225 404 H575 L545 440 L500 414 L455 452 L410 414 L360 446 L315 414 L270 440 Z" fill="#f7c52d"/>
+<rect x="225" y="380" width="350" height="30" rx="15" fill="#e0412f"/>
+<path d="M213 362 q31 -26 62 0 t62 0 t62 0 t62 0 t62 0 t62 0 V392 H213 Z" fill="#5fbf4a"/>
+<path d="M218 352 C218 205 582 205 582 352 Z" fill="#e8a43c"/>
+<path d="M260 300 C290 240 360 225 420 228" stroke="#f5c874" stroke-width="14" fill="none" stroke-linecap="round" opacity=".7"/>
+<ellipse cx="330" cy="290" rx="14" ry="7" fill="#fff1cf" transform="rotate(-20 330 290)"/><ellipse cx="400" cy="262" rx="14" ry="7" fill="#fff1cf" transform="rotate(10 400 262)"/><ellipse cx="470" cy="285" rx="14" ry="7" fill="#fff1cf" transform="rotate(25 470 285)"/><ellipse cx="365" cy="325" rx="14" ry="7" fill="#fff1cf" transform="rotate(15 365 325)"/><ellipse cx="440" cy="322" rx="14" ry="7" fill="#fff1cf" transform="rotate(-10 440 322)"/><ellipse cx="520" cy="322" rx="14" ry="7" fill="#fff1cf" transform="rotate(20 520 322)"/><ellipse cx="285" cy="325" rx="14" ry="7" fill="#fff1cf" transform="rotate(-15 285 325)"/></g><rect x="588" y="450" width="15" height="130" rx="5" fill="#f7cc4a" transform="rotate(-9 595 560)"/><rect x="607" y="430" width="15" height="130" rx="5" fill="#f7cc4a" transform="rotate(-6 614 560)"/><rect x="626" y="410" width="15" height="130" rx="5" fill="#f7cc4a" transform="rotate(-3 633 560)"/><rect x="645" y="450" width="15" height="130" rx="5" fill="#f7cc4a" transform="rotate(0 652 560)"/><rect x="664" y="430" width="15" height="130" rx="5" fill="#f7cc4a" transform="rotate(3 671 560)"/><rect x="683" y="410" width="15" height="130" rx="5" fill="#f7cc4a" transform="rotate(6 690 560)"/><rect x="702" y="450" width="15" height="130" rx="5" fill="#f7cc4a" transform="rotate(9 709 560)"/><polygon points="580,560 720,560 700,735 600,735" fill="#e53935"/><polygon points="586,600 714,600 708,650 592,650" fill="#fff" opacity=".9"/></svg>
